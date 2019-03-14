@@ -1,0 +1,3 @@
+Prime求素数因子
+ArrayOp求数组最大最小值，和，平均数
+filtrate埃式筛法

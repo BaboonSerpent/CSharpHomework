@@ -1,0 +1,2 @@
+C:\Users\Zijun Zhao\source\repos\抽象外观类\抽象外观类\obj\Debug\抽象外观类.csprojAssemblyReference.cache
+C:\Users\Zijun Zhao\source\repos\抽象外观类\抽象外观类\obj\Debug\抽象外观类.csproj.CoreCompileInputs.cache

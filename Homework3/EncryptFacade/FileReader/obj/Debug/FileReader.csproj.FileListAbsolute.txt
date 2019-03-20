@@ -1,0 +1,7 @@
+D:\program\c#\作业三\FileReader\FileReader\bin\Debug\FileReader.exe.config
+D:\program\c#\作业三\FileReader\FileReader\bin\Debug\FileReader.exe
+D:\program\c#\作业三\FileReader\FileReader\bin\Debug\FileReader.pdb
+D:\program\c#\作业三\FileReader\FileReader\obj\Debug\FileReader.csprojAssemblyReference.cache
+D:\program\c#\作业三\FileReader\FileReader\obj\Debug\FileReader.csproj.CoreCompileInputs.cache
+D:\program\c#\作业三\FileReader\FileReader\obj\Debug\FileReader.exe
+D:\program\c#\作业三\FileReader\FileReader\obj\Debug\FileReader.pdb

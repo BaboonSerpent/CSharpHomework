@@ -1,0 +1,9 @@
+C:\Users\Zijun Zhao\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csprojAssemblyReference.cache
+C:\Users\Zijun Zhao\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Properties.Resources.resources
+C:\Users\Zijun Zhao\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csproj.GenerateResource.cache
+C:\Users\Zijun Zhao\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csproj.CoreCompileInputs.cache
+C:\Users\Zijun Zhao\source\repos\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe.config
+C:\Users\Zijun Zhao\source\repos\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe
+C:\Users\Zijun Zhao\source\repos\AlarmClock\AlarmClock\bin\Debug\AlarmClock.pdb
+C:\Users\Zijun Zhao\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+C:\Users\Zijun Zhao\source\repos\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb

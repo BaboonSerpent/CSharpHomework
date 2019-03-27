@@ -1,0 +1,7 @@
+D:\program\c#\作业四\Order\Order\bin\Debug\Order.exe.config
+D:\program\c#\作业四\Order\Order\bin\Debug\Order.exe
+D:\program\c#\作业四\Order\Order\bin\Debug\Order.pdb
+D:\program\c#\作业四\Order\Order\obj\Debug\Order.csprojAssemblyReference.cache
+D:\program\c#\作业四\Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+D:\program\c#\作业四\Order\Order\obj\Debug\Order.exe
+D:\program\c#\作业四\Order\Order\obj\Debug\Order.pdb

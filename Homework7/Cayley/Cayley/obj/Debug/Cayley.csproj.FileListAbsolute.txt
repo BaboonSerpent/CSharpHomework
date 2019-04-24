@@ -1,0 +1,10 @@
+D:\program\c#\作业七\Cayley\Cayley\bin\Debug\Cayley.exe.config
+D:\program\c#\作业七\Cayley\Cayley\bin\Debug\Cayley.exe
+D:\program\c#\作业七\Cayley\Cayley\bin\Debug\Cayley.pdb
+D:\program\c#\作业七\Cayley\Cayley\obj\Debug\Cayley.csprojAssemblyReference.cache
+D:\program\c#\作业七\Cayley\Cayley\obj\Debug\Cayley.Properties.Resources.resources
+D:\program\c#\作业七\Cayley\Cayley\obj\Debug\Cayley.csproj.GenerateResource.cache
+D:\program\c#\作业七\Cayley\Cayley\obj\Debug\Cayley.csproj.CoreCompileInputs.cache
+D:\program\c#\作业七\Cayley\Cayley\obj\Debug\Cayley.exe
+D:\program\c#\作业七\Cayley\Cayley\obj\Debug\Cayley.pdb
+D:\program\c#\作业七\Cayley\Cayley\obj\Debug\Cayley.Form1.resources
